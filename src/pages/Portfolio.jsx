@@ -20,7 +20,7 @@ function Portfolio() {
                             <img src={pizzaImg} className="card-img" alt="..." />
                         </div>
                         <div class="card-body">
-                            <h3>Hotels</h3>
+                            <h4>Pizza Shop</h4>
                         </div>
                     </Link>
                 </div>
@@ -30,7 +30,7 @@ function Portfolio() {
                             <img src={gymImg} className="card-img" alt="..." />
                         </div>
                         <div class="card-body">
-                            <h3>Townhouses</h3>
+                            <h4>Gym Website</h4>
                         </div>
                     </Link>
                 </div>
@@ -40,7 +40,7 @@ function Portfolio() {
                             <img src={fypImg} className="card-img" alt="..." />
                         </div>
                         <div class="card-body">
-                            <h3>Guest Houses</h3>
+                            <h4>Tourism Website</h4>
                         </div>
                     </Link>
                 </div>
