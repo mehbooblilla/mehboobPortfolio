@@ -1,7 +1,8 @@
 .hotelCard {
     width: 18rem;
-    height: 50px;
+
     margin: 30px;
+    display: flex;
 
 
 }
