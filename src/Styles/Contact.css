@@ -1,0 +1,23 @@
+.contactComponent {
+    display: flex;
+    margin: 100px;
+    justify-content: center;
+
+}
+
+.contactComponent label {
+    color: rgb(0, 162, 255);
+    font-weight: 500;
+    font-size: larger;
+}
+
+.icons {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.icon {
+    margin-left: 20px;
+
+
+}

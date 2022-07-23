@@ -1,0 +1,25 @@
+.homeComponent {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.imgComponent img {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    box-shadow: 1px 2px 29px -6px rgba(0, 0, 0, 0.75)
+}
+
+@media screen and (max-width:850px) {
+    .imgComponent img {
+        width: 200px;
+        height: 200px;
+        display: flex;
+
+    }
+
+
+
+}
