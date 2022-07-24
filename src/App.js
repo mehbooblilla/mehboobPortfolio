@@ -9,8 +9,6 @@ import Portfolio from './pages/Portfolio';
 import GymProject from './pages/GymProject';
 import PizzaProject from './pages/PizzaProject';
 import FypProject from './pages/FypProject';
-
-
 function App() {
   return (
     <>
@@ -26,8 +24,6 @@ function App() {
           <Route path='/FypProject' element={<FypProject />} />
         </Routes>
       </BrowserRouter>
-
-
     </>
   );
 }

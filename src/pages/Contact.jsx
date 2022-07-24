@@ -5,7 +5,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import '../Styles/Contact.css'
-import { Link } from 'react-router-dom';
+
 function Contact() {
 
     return (
@@ -23,9 +23,9 @@ function Contact() {
                     <AlternateEmailIcon />
                     <label>mehbooblilla007@gmail.com</label>
                     <div className='icons' >
-                        <a className='icon' href="https://github.com/mehbooblilla" target="-blank"><GitHubIcon fontSize='large' /></a>
-                        <a className='icon' href="https://www.linkedin.com/in/muhammad-mehboob-9b20bb184" target="_blank"><LinkedInIcon fontSize='large' /></a>
-                        <a className='icon' href="https://twitter.com/mehbooblilla007" target="_blank"><TwitterIcon fontSize='large' /></a>
+                        <a className='icon' href="https://github.com/mehbooblilla" target="-blank" rel="noreferrer"><GitHubIcon fontSize='large' /></a>
+                        <a className='icon' href="https://www.linkedin.com/in/muhammad-mehboob-9b20bb184" target="_blank" rel="noreferrer"><LinkedInIcon fontSize='large' /></a>
+                        <a className='icon' href="https://twitter.com/mehbooblilla007" target="_blank" rel="noreferrer"><TwitterIcon fontSize='large' /></a>
                     </div>
 
                 </div>
