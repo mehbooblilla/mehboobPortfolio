@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.d96ab1ac.css",
-    "main.js": "/static/js/main.607919af.js",
-    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
-    "static/media/pizza1.png": "/static/media/pizza1.ff088cafbc37598595de.png",
-    "static/media/fyp1.png": "/static/media/fyp1.f99a7c22447e8c8dbd54.png",
-    "static/media/fyp.png": "/static/media/fyp.7ff160e166654bac7faf.png",
-    "static/media/gym1.png": "/static/media/gym1.d51839ff7b78924777fa.png",
-    "static/media/gym.png": "/static/media/gym.c5bcbe81dad53084e138.png",
-    "static/media/fyp3.png": "/static/media/fyp3.0fa39d29e27136bcd5c3.png",
-    "static/media/pizza.png": "/static/media/pizza.8d671a5b8ae2909a4f84.png",
-    "static/media/pizz2.png": "/static/media/pizz2.c67334011421d008a2aa.png",
-    "static/media/pizza3.png": "/static/media/pizza3.0ae29a5cbd993aa1d240.png",
-    "static/media/gym3.png": "/static/media/gym3.070f7e45fcac1dceeb20.png",
-    "static/media/fyp2.png": "/static/media/fyp2.3189f504024d334f5852.png",
-    "static/media/profilePic.jpg": "/static/media/profilePic.8ab316cebd3b6da301ab.jpg",
-    "static/media/gym4.png": "/static/media/gym4.3424593b7efc5c74ebb1.png",
-    "static/media/gym2.png": "/static/media/gym2.fe3a3f0f72de7b9f85ae.png",
-    "static/media/Mehboob-Resume.pdf": "/static/media/Mehboob-Resume.436b24e7029add40ee51.pdf",
-    "index.html": "/index.html",
-    "main.d96ab1ac.css.map": "/static/css/main.d96ab1ac.css.map",
-    "main.607919af.js.map": "/static/js/main.607919af.js.map",
-    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/mehboobPortfolio/static/css/main.d96ab1ac.css",
+    "main.js": "/mehboobPortfolio/static/js/main.5eb7cdb5.js",
+    "static/js/787.fb771931.chunk.js": "/mehboobPortfolio/static/js/787.fb771931.chunk.js",
+    "static/media/pizza1.png": "/mehboobPortfolio/static/media/pizza1.ff088cafbc37598595de.png",
+    "static/media/fyp1.png": "/mehboobPortfolio/static/media/fyp1.f99a7c22447e8c8dbd54.png",
+    "static/media/fyp.png": "/mehboobPortfolio/static/media/fyp.7ff160e166654bac7faf.png",
+    "static/media/gym1.png": "/mehboobPortfolio/static/media/gym1.d51839ff7b78924777fa.png",
+    "static/media/gym.png": "/mehboobPortfolio/static/media/gym.c5bcbe81dad53084e138.png",
+    "static/media/fyp3.png": "/mehboobPortfolio/static/media/fyp3.0fa39d29e27136bcd5c3.png",
+    "static/media/pizza.png": "/mehboobPortfolio/static/media/pizza.8d671a5b8ae2909a4f84.png",
+    "static/media/pizz2.png": "/mehboobPortfolio/static/media/pizz2.c67334011421d008a2aa.png",
+    "static/media/pizza3.png": "/mehboobPortfolio/static/media/pizza3.0ae29a5cbd993aa1d240.png",
+    "static/media/gym3.png": "/mehboobPortfolio/static/media/gym3.070f7e45fcac1dceeb20.png",
+    "static/media/fyp2.png": "/mehboobPortfolio/static/media/fyp2.3189f504024d334f5852.png",
+    "static/media/profilePic.jpg": "/mehboobPortfolio/static/media/profilePic.8ab316cebd3b6da301ab.jpg",
+    "static/media/gym4.png": "/mehboobPortfolio/static/media/gym4.3424593b7efc5c74ebb1.png",
+    "static/media/gym2.png": "/mehboobPortfolio/static/media/gym2.fe3a3f0f72de7b9f85ae.png",
+    "static/media/Mehboob-Resume.pdf": "/mehboobPortfolio/static/media/Mehboob-Resume.436b24e7029add40ee51.pdf",
+    "index.html": "/mehboobPortfolio/index.html",
+    "main.d96ab1ac.css.map": "/mehboobPortfolio/static/css/main.d96ab1ac.css.map",
+    "main.5eb7cdb5.js.map": "/mehboobPortfolio/static/js/main.5eb7cdb5.js.map",
+    "787.fb771931.chunk.js.map": "/mehboobPortfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d96ab1ac.css",
-    "static/js/main.607919af.js"
+    "static/js/main.5eb7cdb5.js"
   ]
 }
