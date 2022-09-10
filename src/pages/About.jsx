@@ -2,7 +2,7 @@ import React from 'react'
 import '../Styles/About.css'
 import DownloadIcon from '@mui/icons-material/Download';
 import { Link } from 'react-router-dom';
-import resume from '../assets/Mehboob-Resume.pdf'
+import resume from '../assets/Mehboob.pdf'
 
 function About() {
     return (
@@ -18,6 +18,10 @@ function About() {
                 <h1>I'm Muhammad Mehboob</h1>
                 <h3>Web Developer</h3>
                 <Link className='downLink' to={resume} target="_blank" download><DownloadIcon />Resume</Link>
+                <p>I have completed my graduation in BSSE in 2022. I am highly motivated to make my career in the
+                    software technology domain. My current focus is to have hands-on experience in web front-end
+                    development with React JS. Apart from front-end development, my plans are to learn the MERN stack
+                    to become a complete developer in web application development.</p>
 
 
             </div>

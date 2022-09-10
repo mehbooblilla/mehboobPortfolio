@@ -4,6 +4,7 @@ import gymImg from '../assets/gym.png'
 import pizzaImg from '../assets/pizza.png'
 import fypImg from '../assets/fyp.png'
 import { Link } from 'react-router-dom';
+const pizalink = 'https://pizamenu.netlify.app/'
 function Portfolio() {
     return (
         <>
