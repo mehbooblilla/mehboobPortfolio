@@ -16,24 +16,26 @@ function Portfolio() {
             <div className='row cardComponent '>
 
                 <div className="card hotelCard" style={{ width: "18rem" }} >
-                    <Link to="/PizzaProject" className='link'>
+                    <a href="https://pizamenu.netlify.app/" target="_blank" className='link'>
+
                         <div className='overflow'>
                             <img src={pizzaImg} className="card-img" alt="..." />
                         </div>
                         <div class="card-body">
                             <h4>Pizza Shop</h4>
                         </div>
-                    </Link>
+
+                    </a>
                 </div>
                 <div className="card hotelCard" style={{ width: "18rem" }} >
-                    <Link to="/GymProject" className='link' >
+                    <a href="https://lillafitness.netlify.app/" target="_blank" className='link'>
                         <div className='overflow'>
                             <img src={gymImg} className="card-img" alt="..." />
                         </div>
                         <div class="card-body">
                             <h4>Gym Website</h4>
                         </div>
-                    </Link>
+                    </a>
                 </div>
                 <div className="card hotelCard" style={{ width: "18rem" }} >
                     <Link to="/FypProject" className='link'>
